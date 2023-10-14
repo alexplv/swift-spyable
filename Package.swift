@@ -7,7 +7,7 @@ let package = Package(
     name: "swift-spyable",
     platforms: [
         .macOS(.v10_15),
-        .iOS(.v13),
+        .iOS(.v12),
         .tvOS(.v13),
         .watchOS(.v6),
         .macCatalyst(.v13)
